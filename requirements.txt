@@ -1,0 +1,4 @@
+numpy
+pandas
+seaborn
+mesa>3.0.0
