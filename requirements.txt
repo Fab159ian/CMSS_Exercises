@@ -3,3 +3,4 @@ pandas
 seaborn
 matplotlib
 mesa>3.0.0
+networkx
